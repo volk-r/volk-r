@@ -2,7 +2,7 @@
 
 ### I’m iOS developer
 
-I enjoy working with Swift and creating solutions that improve daily lives
+I enjoy working with Swift and creating solutions that improve daily life
 
 [![Telegram](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rromanov.vk@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/volk_r)
