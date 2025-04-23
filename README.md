@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Roman
+
+I’m iOS developer. I enjoy working with Swift and creating solutions that improve daily lives.
+
+[![Telegram](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rromanov.vk@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/volk_r)
 
 <!--
 **volk-r/volk-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
