@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Roman
 
-### I’m iOS developer
+### 🚀 I’m iOS developer
 
 I enjoy working with Swift and creating solutions that improve daily life
 
@@ -8,7 +8,7 @@ I enjoy working with Swift and creating solutions that improve daily life
 
 <p align="left">
 <!--
-  <img src="https://github-readme-stats.vercel.app/api?username=volk-r&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=volk-r&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true" height="150" />
 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volk-r&layout=compact" height="170"/>
 </p>
