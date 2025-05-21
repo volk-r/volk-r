@@ -13,7 +13,8 @@ I enjoy working with Swift and creating solutions that improve daily life
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volk-r&layout=compact" height="170"/>
 </p>
 
-[![Telegram](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rromanov.vk@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/volk-r/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rromanov.vk@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/volk_r)
 
 <!--
