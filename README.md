@@ -19,6 +19,8 @@ I enjoy working with Swift and creating solutions that improve daily life
 -->
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/volk_r)
 
+![](https://komarev.com/ghpvc/?username=volk-r&color=blueviolet&style=plastic)
+
 <!--
 **volk-r/volk-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
